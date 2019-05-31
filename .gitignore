@@ -28,3 +28,6 @@
 
 # Ignore Mac file
 .DS_Store
+
+# Ignor .env files
+/config/*_env.yml
